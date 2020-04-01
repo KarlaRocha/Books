@@ -1,0 +1,8 @@
+# Node modules
+front/node_modules
+
+# Database file
+back/db.sqlite3
+
+# cpython
+*.pyc
