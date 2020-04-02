@@ -23,9 +23,9 @@ Example
 
 Activate virtual enviroment
 
-    soure venv/bin/activate
+    source venv/bin/activate
 
-Naviagate into the folder *back* and install requirement.
+Navigate into the folder *back* and install requirement.
 
     pip install requirements.txt
 
